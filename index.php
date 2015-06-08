@@ -18,6 +18,7 @@ and open the template in the editor.
         echo "Test 3";
         echo "Test 4";
         echo "Test 5";
+        echo "Test 6";
         ?>
     </body>
 </html>
