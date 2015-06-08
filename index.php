@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "Hello Wesley, I hope you are liking it !";
         echo "I'm from USA";
         echo "Test 1";
+        echo "Test 2";
         ?>
     </body>
 </html>
