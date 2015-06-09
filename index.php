@@ -13,14 +13,7 @@ and open the template in the editor.
         <?php
         echo "Hello Wesley, I hope you are liking it !";
         echo "I'm from USA";
-        echo "Test 1";
-        echo "Test 2";
-        echo "Test 3";
-        echo "Test 4";
-        echo "Test 5";
-        echo "Test 6";
-        echo "Test 10";
-        echo "Test 9";
+        echo "Today is Tue.";
         ?>
     </body>
 </html>
